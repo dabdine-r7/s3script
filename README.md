@@ -1,4 +1,4 @@
-# s3script: a fast, flexible way to process object metadata on s3
+# s3script: a fast, flexible way to recursively process object metadata on s3
 
 # Setup
 
